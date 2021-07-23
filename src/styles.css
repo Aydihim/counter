@@ -1,0 +1,57 @@
+.logo_and_menu {
+    display: flex;
+}
+.menu {
+    list-style-type: none;
+}
+.glavnaya {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    position: absolute;
+    width: 90px;
+    height: 28px;
+    left: 781px;
+    top: 28px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    color: #003399;
+}
+.for-us {
+    position: absolute;
+    width: 68px;
+    height: 28px;
+    left: 901px;
+    top: 28px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    color: #003399;
+}
+.contacts {
+    position: absolute;
+    width: 106px;
+    height: 28px;
+    left: 999px;
+    top: 28px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    color: #003399;
+}
+body {
+    position: relative;
+    width: 1440px;
+    height: 850px;
+}
+.logo {
+    position: absolute;
+    width: 169px;
+    height: 52px;
+    left: 335px;
+    top: 15px;
+}
